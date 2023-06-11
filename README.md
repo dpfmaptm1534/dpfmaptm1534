@@ -1,7 +1,7 @@
 # 👋 이재원 (LEE JAEWON) 
 
-![gitimain](https://github.com/dpfmaptm1534/dpfmaptm1534/assets/75537734/c9505fea-247e-4dc6-abf9-1083db5fc860)
 
+[![이미지 대체 텍스트](https://github.com/dpfmaptm1534/dpfmaptm1534/assets/75537734/c9505fea-247e-4dc6-abf9-1083db5fc860)](https://dpfmaptm1534.github.io/portfolio/)
 
 #  🚀 Skill
 <div>
