@@ -1,4 +1,6 @@
 # 👋 이재원 (LEE JAEWON) 
+![Uploading portfolio-1.png…]()
+
 
 #  🚀 Skill
 <div>
