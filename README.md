@@ -1,5 +1,6 @@
 # 👋 이재원 (LEE JAEWON) 
-![Uploading portfolio-1.png…]()
+
+![portfolio-1](https://github.com/dpfmaptm1534/dpfmaptm1534/assets/75537734/482f5891-dab1-48e8-824d-2954fa90e7c6)
 
 
 #  🚀 Skill
